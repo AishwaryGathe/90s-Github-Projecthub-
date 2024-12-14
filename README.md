@@ -66,6 +66,6 @@ This project was inspired by the simplicity and creativity of 90s web developmen
 For any questions or suggestions, feel free to reach out to me:
 
 - **GitHub**: [AishwaryGathe](https://github.com/AishwaryGathe)
-- **Email**: your_email@example.com
+- **Email**: aishwarygathe@gmail.com
 
 ---
