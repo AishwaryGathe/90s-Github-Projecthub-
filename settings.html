@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Settings</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+</head>
+<body bgcolor="#000000" text="#00FF00">
+    <h1 align="center"><img src="/gifs/pc.gif" alt=""> Settings</h1>
+    <form action="/update_settings" method="post" style="color: #00FF00;">
+        <label for="theme">Theme:</label><br>
+        <select id="theme" name="theme">
+            <option value="dark">Dark</option>
+            <option value="light">Light</option>
+        </select><br><br>
+        <label for="notifications">Notifications:</label><br>
+        <input type="checkbox" id="notifications" name="notifications" checked> Enable Notifications<br><br>
+        <button type="submit">Save</button>
+    </form>
+</body>
+</html>
